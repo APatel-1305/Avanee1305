@@ -27,16 +27,16 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
-* 🧠 Passionate about **AI research, Machine Learning, and emerging technologies**
-* 🔬 Exploring **Deep Learning, NLP, Transformers, and LLMs**
-* 📊 Turning raw data into insight with **Power BI, Tableau, Excel, Statistics, and Time Series analysis**
-* 📚 Love **teaching, mentoring, and sharing technical knowledge**
-* 🤝 **Managing a team of 30+ volunteers** at college, leading with clear communication and teamwork
-* 🚀 Interested in solving real-world problems through **research and intelligent systems**
-* 💡 Believe in learning, experimenting, and turning ideas into practical solutions
-* 🌱 Open to **research collaborations, teaching opportunities, and innovative projects**
+* Passionate about **AI research, Machine Learning, and emerging technologies**
+* Exploring **Deep Learning, NLP, Transformers, and LLMs**
+* Turning raw data into insight with **Power BI, Tableau, Excel, Statistics, and Time Series analysis**
+* Love **teaching, mentoring, and sharing technical knowledge**
+* **Managing a team of 30+ volunteers** at college, leading with clear communication and teamwork
+* Interested in solving real-world problems through **research and intelligent systems**
+* Believe in learning, experimenting, and turning ideas into practical solutions
+* Open to **research collaborations, teaching opportunities, and innovative projects**
 
 ---
 
